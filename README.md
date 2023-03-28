@@ -6,11 +6,11 @@
 ### Percussionniste, vice-président et directeur de la communication à la Lyre Biterroise. Étudiant en mathématiques et sciences informatiques à Henri IV Béziers
 
 
-## Mes projets :
+## Mes projets actuels :
 
-### Life-SCORE, l'application qui évalue une ville française choisie par rapport à l'utilisateur
+Life-SCORE, l'application qui évalue une ville française choisie par rapport à l'utilisateur
 > https://github.com/The-Weather-TEAM/Life-SCORE
 
 
-### Le site officiel de la Lyre Biterroise
+Le site officiel de la Lyre Biterroise
 > https://lyre-biterroise.com
