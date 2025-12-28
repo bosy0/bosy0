@@ -5,7 +5,7 @@
 ## Mes derniers projets :
 
 
-+ End To End Omr — Deep learning et reconnaissance de partitions
++ End To End OMR — Reconnaissance de partitions avec tensorflow et LM OpenFST
 > https://gitlab.insa-rennes.fr/Christian.Raymond/end-to-end-omr/-/tree/EtudePratique20252026?ref_type=heads
 
 + Le site de la Lyre Biterroise — l'Orchestre officiel de Béziers
