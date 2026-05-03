@@ -12,7 +12,7 @@
 </div>
 
 ---
-## 🚀 Featured Projects
+## Featured Projects
 
 ### Academic & Research
 
@@ -27,9 +27,3 @@
 - **[FanfarINSArrasin](https://fanfare-rennes.fr)** – INSA Rennes Brass Band website
   
 - **[LifeScore](https://github.com/The-Weather-TEAM/Life-SCORE)** – Personalized French city evaluation platform
-  
----
-
-## 📚 Learn More
-
-For detailed information about my experience and skills, visit my [LinkedIn profile](https://www.linkedin.com/in/nathan-bosy/).
