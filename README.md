@@ -20,7 +20,7 @@
   
 - **[Geo Air Quality](https://github.com/bosy0/geo-air-quality)** – Mobile air quality monitoring on M5Stack with real-time tracking
   
-### Web Projects
+### Other Projects
 
 - **[La Lyre Biterroise](https://lyre-biterroise.com)** – Official website for Béziers Orchestra
   
